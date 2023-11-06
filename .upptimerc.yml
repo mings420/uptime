@@ -3,19 +3,19 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: SG AWS-01
-    url: http://sgaws1.mings.pro
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: SG AWS1
+    url: http://sgaws1.mings.pro:81
+  - name: SG VIP1
+    url: http://sgvip1.mings.pro:81
+  - name: SG AWS2
+    url: http://sgaws2.mings.pro:81
+  - name: JP AWS1
+    url: http://jpaws1.mings.pro:81
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: mings420.github.io
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -25,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/mings420/uptime
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
