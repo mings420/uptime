@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgaws1.mings.pro.ico",
     "slug": "sg-aws-01",
     "status": "down",
-    "uptime": "86.53%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "86.53%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "86.53%",
+    "uptime": "32.11%",
+    "uptimeDay": "32.11%",
+    "uptimeWeek": "32.11%",
+    "uptimeMonth": "32.11%",
+    "uptimeYear": "32.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 326,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
