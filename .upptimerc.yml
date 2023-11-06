@@ -11,6 +11,10 @@ sites:
     url: http://sgaws2.mings.pro:81
   - name: JP AWS1
     url: http://jpaws1.mings.pro:81
+  - name: KR AWS1
+    url: http://kraws1.mings.pro:81
+  - name: LOND AWS1
+    url: http://lond1.mings.pro:81
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
