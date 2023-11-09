@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgaws1.mings.pro.ico",
     "slug": "sg-aws-1",
     "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "uptime": "98.39%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
     "time": 466,
     "timeDay": 504,
     "timeWeek": 466,
     "timeMonth": 466,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-11-06": 80
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgvip1.mings.pro.ico",
     "slug": "sg-vip-1",
     "status": "down",
-    "uptime": "96.14%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "96.14%",
-    "uptimeYear": "96.14%",
+    "uptime": "94.53%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "94.53%",
     "time": 406,
     "timeDay": 408,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-11-09": 85,
+      "2023-11-09": 168,
       "2023-11-06": 104
     }
   },
@@ -46,35 +47,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgaws2.mings.pro.ico",
     "slug": "sg-aws-2",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 419,
     "timeDay": 357,
     "timeWeek": 419,
     "timeMonth": 419,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "JP AWS1",
     "url": "http://jpaws1.mings.pro:81",
     "icon": "https://icons.duckduckgo.com/ip3/jpaws1.mings.pro.ico",
     "slug": "jp-aws-1",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 243,
     "timeDay": 224,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-11-06": 79
     }
   },
@@ -84,24 +88,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/kraws1.mings.pro.ico",
     "slug": "kr-aws-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 332,
     "timeDay": 425,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "LOND AWS1",
     "url": "http://lond1.mings.pro:81",
     "icon": "https://icons.duckduckgo.com/ip3/lond1.mings.pro.ico",
     "slug": "lond-aws-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -112,6 +118,8 @@
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   }
 ]
