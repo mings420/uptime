@@ -4,17 +4,17 @@ repo: uptime # The name of this repository
 
 sites:
   - name: SG AWS1
-    url: http://sgaws1.mings.pro:81
+    url: sgaws1.ip-mings.my.id
   - name: SG VIP1
-    url: http://sgvip1.mings.pro:81
+    url: sgvip1.ip-mings.my.id
   - name: SG AWS2
-    url: http://sgaws2.mings.pro:81
+    url: sgawsW.ip-mings.my.id
   - name: JP AWS1
-    url: http://jpaws1.mings.pro:81
+    url: jpaws1.ip-mings.my.id
   - name: KR AWS1
-    url: http://kraws1.mings.pro:81
+    url: kraws1.ip-mings.my.id
   - name: LOND AWS1
-    url: http://lond1.mings.pro:81
+    url: lond1.ip-mings.my.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
